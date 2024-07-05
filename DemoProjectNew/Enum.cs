@@ -8,6 +8,17 @@ namespace DemoProjectNew
 {
     internal class Enum
     {
+        public enum Days
+        {
+            Sunday,
+            Monday,
+            Tuesday,
+            Wednesday,
+            Thursady,
+            Friday,
+            Saturday
+
+        }
 
 
     }
