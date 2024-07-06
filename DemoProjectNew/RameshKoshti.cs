@@ -8,9 +8,9 @@ namespace DemoProjectNew
 {
     class RameshKoshti
     {
-        public static void Main()
+        static void Main()
         {
-
+            Console.WriteLine("Hello...!");
         }
     }
 }
