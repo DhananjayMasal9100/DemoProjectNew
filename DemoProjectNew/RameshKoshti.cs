@@ -8,9 +8,19 @@ namespace DemoProjectNew
 {
     internal class RameshKoshti
     {
+        class abc
+        {
+            public void printmsg()
+            {
+                Console.WriteLine("Hello...!");
+
+            }
+        }
+
         static void Main()
         {
-
+            abc a = new abc();
+            a.printmsg();
         }
     }
 }
