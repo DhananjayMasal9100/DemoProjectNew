@@ -8,5 +8,9 @@ namespace DemoProjectNew
 {
     internal class RameshKoshti
     {
+        static void Main()
+        {
+
+        }
     }
 }
