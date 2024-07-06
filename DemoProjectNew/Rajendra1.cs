@@ -8,5 +8,10 @@ namespace DemoProjectNew
 {
     internal class Rajendra1
     {
+
+        static void Main()
+        {
+            Console.WriteLine("Hello");
+        }
     }
 }
