@@ -6,17 +6,16 @@ using System.Threading.Tasks;
 
 namespace DemoProjectNew
 {
-    internal class RameshKoshti
+    class abc
     {
-        class abc
+        public void printmsg()
         {
-            public void printmsg()
-            {
-                Console.WriteLine("Hello...!");
+            Console.WriteLine("Hello...!");
 
-            }
         }
-
+    }
+    class RameshKoshti
+    {
         static void Main()
         {
             abc a = new abc();
