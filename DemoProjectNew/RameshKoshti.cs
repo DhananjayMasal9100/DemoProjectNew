@@ -6,20 +6,8 @@ using System.Threading.Tasks;
 
 namespace DemoProjectNew
 {
-    class abc
-    {
-        public void printmsg()
-        {
-            Console.WriteLine("Hello...!");
-
-        }
-    }
     class RameshKoshti
     {
-        static void Main()
-        {
-            abc a = new abc();
-            a.printmsg();
-        }
+
     }
 }
