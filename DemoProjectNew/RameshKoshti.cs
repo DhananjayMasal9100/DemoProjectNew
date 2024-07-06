@@ -8,6 +8,9 @@ namespace DemoProjectNew
 {
     class RameshKoshti
     {
+        public static void Main()
+        {
 
+        }
     }
 }
