@@ -8,6 +8,10 @@ namespace DemoProjectNew
 {
     class RameshKoshti
     {
+        public void increment()
+        {
+
+        }
         static void Main()
         {
             Console.WriteLine("Hello...!");
