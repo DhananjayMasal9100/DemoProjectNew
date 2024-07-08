@@ -8,5 +8,9 @@ namespace DemoProjectNew
 {
     internal class Sakshi
     {
+         static void Main()
+        {
+            Console.WriteLine("Hello");
+        }
     }
 }
