@@ -8,8 +8,12 @@ namespace DemoProjectNew
 {
     internal class sangram
     {
-
-
+        static void Main()
+        {
+            Console.WriteLine("Hello...!");
+            Console.WriteLine("....");  
+            Console.ReadLine();
+        }
 
     }
 }
