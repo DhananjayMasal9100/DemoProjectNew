@@ -6,14 +6,16 @@ using System.Threading.Tasks;
 
 namespace DemoProjectNew
 {
-    internal class Program
+    internal class Rajendra1
     {
+        public void Show()
+        {
+            Console.WriteLine("*****");
+        }
 
         static void Main()
         {
-
+            Console.WriteLine("Hello");
         }
-
-
     }
 }

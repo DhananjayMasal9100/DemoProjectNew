@@ -6,14 +6,11 @@ using System.Threading.Tasks;
 
 namespace DemoProjectNew
 {
-    internal class Program
+    internal class poojaNew
     {
-
         static void Main()
         {
 
         }
-
-
     }
 }

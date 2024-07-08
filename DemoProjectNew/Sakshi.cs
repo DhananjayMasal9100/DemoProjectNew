@@ -6,14 +6,7 @@ using System.Threading.Tasks;
 
 namespace DemoProjectNew
 {
-    internal class Program
+    internal class Sakshi
     {
-
-        static void Main()
-        {
-
-        }
-
-
     }
 }
