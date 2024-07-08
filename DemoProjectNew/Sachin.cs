@@ -17,7 +17,13 @@ namespace DemoProjectNew
         {
             Console.WriteLine("Hello");
         }
-       static void Main()
+
+
+        public void Test()
+        {
+            Console.WriteLine("Hello");
+        }
+        static void Main()
         {
 
         }
