@@ -8,7 +8,14 @@ namespace DemoProjectNew
 {
     internal class Sachin
     {
-        
+        void test()
+        {
+
+        }
+       static void Main()
+        {
+
+        }
         
     }
 }
