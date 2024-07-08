@@ -8,5 +8,9 @@ namespace DemoProjectNew
 {
     internal class poojaNew
     {
+        static void Main()
+        {
+
+        }
     }
 }
