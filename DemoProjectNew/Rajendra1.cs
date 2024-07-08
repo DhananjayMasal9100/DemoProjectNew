@@ -6,15 +6,16 @@ using System.Threading.Tasks;
 
 namespace DemoProjectNew
 {
-    class RameshKoshti
+    internal class Rajendra1
     {
-        public void increment()
+        public void Show()
         {
-
+            Console.WriteLine("*****");
         }
+
         static void Main()
         {
-            Console.WriteLine("Hello...!");
+            Console.WriteLine("Hello");
         }
     }
 }

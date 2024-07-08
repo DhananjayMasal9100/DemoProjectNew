@@ -1,20 +1,27 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace DemoProjectNew
 {
-    class RameshKoshti
+    internal class Dipaknew
     {
-        public void increment()
+        public void Display(string name)
         {
-
+            Console.WriteLine("test");
         }
+
+
         static void Main()
         {
-            Console.WriteLine("Hello...!");
+           
+
+            
+
         }
     }
 }

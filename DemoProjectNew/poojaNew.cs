@@ -6,15 +6,11 @@ using System.Threading.Tasks;
 
 namespace DemoProjectNew
 {
-    class RameshKoshti
+    internal class poojaNew
     {
-        public void increment()
-        {
-
-        }
         static void Main()
         {
-            Console.WriteLine("Hello...!");
+
         }
     }
 }
