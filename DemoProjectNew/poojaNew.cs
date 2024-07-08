@@ -8,5 +8,10 @@ namespace DemoProjectNew
 {
     internal class poojaNew
     {
+
+        public void Display()
+        {
+
+        }
     }
 }
