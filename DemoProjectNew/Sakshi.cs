@@ -8,5 +8,24 @@ namespace DemoProjectNew
 {
     internal class Sakshi
     {
+        
+    class ReverseString
+    {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("Given Name is CODEMIND TECHNOLOGY !!!");
+            string name = "CODEMIND TECHNOLOGY !!!";
+            string result = " ";
+            for (int i = name.Length - 1; i > -1; i--)
+            {
+                char getSingleChar = name[i];
+                result += getSingleChar;
+            }
+            Console.WriteLine("Reverse is " + result);
+        }
+
+
     }
+    }
+
 }
