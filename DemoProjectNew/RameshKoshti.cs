@@ -8,13 +8,6 @@ namespace DemoProjectNew
 {
     class RameshKoshti
     {
-
-
-        public void Display()
-        {
-            Console.WriteLine("Hello");
-
-        }
         static void Main()
         {
             Console.WriteLine("Hello...!");
