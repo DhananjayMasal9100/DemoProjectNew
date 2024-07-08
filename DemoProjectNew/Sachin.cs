@@ -12,6 +12,11 @@ namespace DemoProjectNew
         {
 
         }
+
+      public void Display()
+        {
+            Console.WriteLine("Hello");
+        }
        static void Main()
         {
 
